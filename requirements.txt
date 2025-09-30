@@ -1,0 +1,5 @@
+solana
+spl-token-py
+pandas
+openpyxl
+tqdm
